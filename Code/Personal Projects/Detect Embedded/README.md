@@ -1,11 +1,13 @@
 # Overview
-At the time that I was working on this project, I was watching a lot of Cyber documentaries. And one thing that was in the back of my mind was how bad actors can hide exe's in images.
+*I see this as proof of concept.*
+
+At the time that I was working on this project, I was watching a lot of Cyber documentaries. And one thing that was in the back of my mind was how bad actors can hide exes in images.
 
 So I wanted to see if I could make a program that can detect if an image has an embedded .exe.
 
 It's built off of one of my other projects which is a "file search engine". Which searches a system for and returns a list of a specified file or files with a specific file extension.
 
-It also has a GUI interface, I first started using TKinter but soon found that it was not able to handle displaying the amount of image paths I need it to.
+It also has a GUI interface, I first started using TKinter but soon found that it was not able to handle displaying the amount of image paths I needed it to.
 
 So I did a search and found wxPython and decided to give it a try. And that is what I decided on as the new GUI. 
 ## How it works

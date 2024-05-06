@@ -1,0 +1,2 @@
+# HTML Password Tester
+Part of learning javascript I want to be able to apply it to things that I want to work in. Cybersecurity, so using javascript, html, and css. I came up with a password strength tester. It's not as accurate as other testers that you can find online. But this was a easy project that I could do in a weekend. 
